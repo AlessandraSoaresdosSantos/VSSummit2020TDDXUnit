@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Example_TDD_XUnit.Domain/bin/Debug/netcoreapp3.1
+/Example_TDD_XUnit.Domain/obj
+/Example_TDD_XUnit.Tests/bin/Debug/netcoreapp3.1
+/Example_TDD_XUnit.Tests/obj/Debug/netcoreapp3.1
+/Example_TDD_XUnit.Tests/obj
